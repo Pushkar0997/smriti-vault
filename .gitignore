@@ -1,0 +1,11 @@
+# Python & OS
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Local test & build artifacts
+dist/
+*.zip
+*.pdf
+.env
